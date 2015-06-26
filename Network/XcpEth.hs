@@ -44,8 +44,7 @@ module Network.XcpEth
     ,throwError
     ,ToByteString
     -- * Other Types
-    ,IPAddress
-    ,Network.PortNumber) where
+    ,IPAddress) where
 
 
 import Network (PortNumber, Socket)
